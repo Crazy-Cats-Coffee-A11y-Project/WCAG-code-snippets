@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "astro-embed": "^0.7.2"
+  }
+}
